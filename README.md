@@ -93,4 +93,3 @@ This template will allow you to build beautiful React Native apps quickly for al
 ### Made with ♥ in India
 
 </div>
-# react-native-tauri
